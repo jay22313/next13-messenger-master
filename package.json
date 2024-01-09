@@ -50,6 +50,6 @@
     "@types/lodash": "^4.14.194",
     "@types/react": "18.2.47",
     "prisma": "^4.13.0",
-    "typescript": "5.3.3"
+    "typescript": "^5.3.3"
   }
 }
